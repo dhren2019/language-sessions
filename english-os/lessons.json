@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-27",
+  "lessons": [
+    {
+      "day": 1,
+      "date": "2026-10-27",
+      "weekday_theme": "Tech + AI",
+      "title": "AI at work & natural English",
+      "summary_es": "Hoy trabajas inglés real sobre IA y trabajo: comprensión, pronunciación extraída de la transcripción, vocabulario activo y una conversación final en Fluently.",
+      "duration_minutes": 45,
+      "video": {
+        "title": "AI brain fry is real. Here's what leaders can do",
+        "speaker": "Julie Bedard",
+        "source": "TED@BCG",
+        "year": 2026,
+        "url": "https://www.ted.com/talks/julie_bedard_ai_brain_fry_is_real_here_s_what_leaders_can_do",
+        "instruction_es": "Primera pasada: entiende la idea general. Segunda: escucha cómo suenan las palabras del Pronunciation Lab.",
+        "shadowing_es": "Busca el tramo donde habla de attention, accountability y apprenticeship. Repite 15–30 segundos 3–5 veces copiando ritmo y estrés."
+      },
+      "blocks": [
+        {
+          "id": "video",
+          "minutes": 10,
+          "icon": "🎥",
+          "title": "Vídeo + shadowing",
+          "description": "Meaning + 15–30 s de ritmo real"
+        },
+        {
+          "id": "pron",
+          "minutes": 10,
+          "icon": "🔊",
+          "title": "Pronunciation Lab",
+          "description": "Palabras B2/C1 de la transcripción"
+        },
+        {
+          "id": "cards",
+          "minutes": 10,
+          "icon": "🧠",
+          "title": "Recall + tarjetas",
+          "description": "Producción español → inglés + quiz"
+        },
+        {
+          "id": "fluently",
+          "minutes": 15,
+          "icon": "🎙️",
+          "title": "Fluently",
+          "description": "Conversación guiada + mission chunks"
+        }
+      ],
+      "pronunciation": [
+        {
+          "word": "accountability",
+          "meaning": "responsabilidad / rendición de cuentas",
+          "pron": "akáunta-BÍLiti",
+          "note": "Estrés principal en BIL."
+        },
+        {
+          "word": "apprenticeship",
+          "meaning": "formación como aprendiz",
+          "pron": "a-PRÉN-tis-ship",
+          "note": "Estrés en PREN; -ship corto."
+        },
+        {
+          "word": "oversight",
+          "meaning": "supervisión",
+          "pron": "ÓU-ver-sait",
+          "note": "Marca el diptongo de sight."
+        },
+        {
+          "word": "scrutinized",
+          "meaning": "examinaron minuciosamente",
+          "pron": "SKRÚ-ta-naizd",
+          "note": "Grupo inicial skr-, sin e delante."
+        },
+        {
+          "word": "overseer",
+          "meaning": "supervisor",
+          "pron": "óu-ver-SÍR",
+          "note": "Última sílaba fuerte."
+        },
+        {
+          "word": "upskilling",
+          "meaning": "mejora de competencias",
+          "pron": "ÁP-skí-ling",
+          "note": "Mantén unido el grupo psk."
+        },
+        {
+          "word": "handoffs",
+          "meaning": "traspasos de trabajo",
+          "pron": "JÁND-ofs",
+          "note": "Final -ffs compacto."
+        },
+        {
+          "word": "cognitively",
+          "meaning": "cognitivamente",
+          "pron": "KÁG-na-tiv-li",
+          "note": "Reduce las sílabas débiles."
+        },
+        {
+          "word": "outcomes",
+          "meaning": "resultados",
+          "pron": "ÁUT-kams",
+          "note": "OUT fuerte; segunda sílaba reducida."
+        }
+      ],
+      "phonetic_patterns": [
+        "Consonant clusters: scrutinized / upskilling. No añadas una vocal española delante.",
+        "Stress + weak syllables: accountability / cognitively / apprenticeship. No pronuncies todas las sílabas con la misma fuerza."
+      ],
+      "spoken_english": [
+        {
+          "formal": "going to",
+          "spoken": "gonna",
+          "example": "I'm gonna try it.",
+          "register": "casual"
+        },
+        {
+          "formal": "want to",
+          "spoken": "wanna",
+          "example": "I wanna figure it out.",
+          "register": "casual"
+        },
+        {
+          "formal": "got to",
+          "spoken": "gotta",
+          "example": "I've gotta keep up with this.",
+          "register": "casual"
+        }
+      ],
+      "chunks": [
+        {
+          "chunk": "it turns out",
+          "meaning": "resulta que",
+          "pron": "it térns áut",
+          "example": "It turns out AI can create more work."
+        },
+        {
+          "chunk": "pretty much",
+          "meaning": "prácticamente / básicamente",
+          "pron": "príri mach",
+          "example": "That's pretty much how I use AI every day."
+        },
+        {
+          "chunk": "figure out",
+          "meaning": "averiguar / resolver",
+          "pron": "fíguer áut",
+          "example": "We need to figure out what should stay human."
+        },
+        {
+          "chunk": "worth it",
+          "meaning": "merece la pena",
+          "pron": "uérth it",
+          "example": "The setup takes time, but it's worth it."
+        },
+        {
+          "chunk": "keep up with",
+          "meaning": "mantenerse al día con",
+          "pron": "kíip ap uiz",
+          "example": "It's hard to keep up with all the new AI tools."
+        },
+        {
+          "chunk": "burn out",
+          "meaning": "quemarse / agotarse",
+          "pron": "bern áut",
+          "example": "If you try to learn everything at once, you'll burn out."
+        }
+      ],
+      "flashcards": [
+        {
+          "front": "Resulta que era más fácil.",
+          "back": "It turns out it was easier. · it térns áut"
+        },
+        {
+          "front": "Eso es básicamente todo.",
+          "back": "That's pretty much it. · príri mach"
+        },
+        {
+          "front": "Tenemos que averiguarlo.",
+          "back": "We need to figure it out. · fíguer it áut"
+        },
+        {
+          "front": "Merece la pena.",
+          "back": "It's worth it. · uérth it"
+        },
+        {
+          "front": "Mantenerse al día con la IA",
+          "back": "Keep up with AI. · kíip ap uiz ei-ái"
+        },
+        {
+          "front": "Me estoy quemando.",
+          "back": "I'm burning out. · aim bérnin áut"
+        },
+        {
+          "front": "Responsabilidad / rendición de cuentas",
+          "back": "accountability · akáunta-BÍLiti"
+        },
+        {
+          "front": "Formación como aprendiz",
+          "back": "apprenticeship · a-PRÉN-tis-ship"
+        },
+        {
+          "front": "Supervisión",
+          "back": "oversight · ÓU-ver-sait"
+        },
+        {
+          "front": "Resultados",
+          "back": "outcomes · ÁUT-kams"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Quieres decir «tenemos que averiguarlo».",
+          "options": [
+            "We need to figure it out.",
+            "We need to take it out.",
+            "We need to find about it."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Algo costó tiempo, pero mereció la pena.",
+          "options": [
+            "It burned out.",
+            "It was worth it.",
+            "It turned out."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "¿Qué significa accountability?",
+          "options": [
+            "Supervisión",
+            "Responsabilidad / rendición de cuentas",
+            "Resultado"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "¿Cuál suena más natural para «básicamente» en conversación?",
+          "options": [
+            "pretty much",
+            "beautifully",
+            "oversight"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Quieres decir «es difícil mantenerse al día».",
+          "options": [
+            "It's hard to keep up.",
+            "It's hard to carry on it.",
+            "It's hard to go with."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "¿Cuál viene del vídeo y significa «supervisión»?",
+          "options": [
+            "oversight",
+            "outcome",
+            "handoff"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "¿Qué reducción es casual y natural para going to?",
+          "options": [
+            "gotta",
+            "gonna",
+            "wanna"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "¿Cuál es la misión de pronunciación para Fluently?",
+          "options": [
+            "accountability + outcomes",
+            "speak + work",
+            "gonna + wanna"
+          ],
+          "answer": 0
+        }
+      ],
+      "fluently": {
+        "topic": "Is AI making us more productive or just more dependent?",
+        "prompts": [
+          "How do you use AI at work?",
+          "What task does AI genuinely save you time on?",
+          "What does AI still do badly?",
+          "Are people becoming too dependent on AI?",
+          "Which AI tool or feature do you want to try next?"
+        ],
+        "story_challenge": "Cuenta una situación real en la que una IA resolvió un problema o se equivocó y tuviste que arreglarlo.",
+        "mission_chunks": [
+          "it turns out",
+          "pretty much",
+          "figure out",
+          "keep up with"
+        ],
+        "pronunciation_goal": [
+          "accountability",
+          "outcomes"
+        ]
+      }
+    }
+  ]
+}
